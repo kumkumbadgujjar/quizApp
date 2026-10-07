@@ -1,0 +1,6 @@
+{
+  "name": "Simple Quiz",
+  "description": "A beginner-friendly quiz app asking for the capital of France built with Jetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
